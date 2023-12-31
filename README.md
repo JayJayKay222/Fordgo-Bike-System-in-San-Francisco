@@ -1,10 +1,10 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Fordgobike System in San Francisco 
+## by Johnson Joseph 
 
 
 ## Dataset
 
-> The FordgoBke system data includes information about individual rides in a bike system covering the San Francisco Bay Area, California operated by Motivate (a company based in New York City that operates bicycle sharing systems in the United States), in a partnership with the Metropolitan Transportation Commission and the Bay Area Air Quality Management District.
+> The FordgoBike system data includes information about individual rides in a bike system covering the San Francisco Bay Area, California operated by Motivate (a company based in New York City that operates bicycle sharing systems in the United States), in a partnership with the Metropolitan Transportation Commission and the Bay Area Air Quality Management District.
 
 
 ## Summary of Findings
