@@ -34,7 +34,7 @@
 > We have more Male subscribers and customers than Feamles
 - The subscibers are more than customers during working days but the customers number of bike trip is almost the same in weekdends
 - There is a symetry for median of start hour for all weekdays which is between 14 - 15 except for only friday it is 11 to 12.
--  During weekends (Sunday and Saturdays) there is the least number of bike Trips.But it seems that at (Sunday and Saturdays) the trips duration is higher than for other weekdays.
+- During weekends (Sunday and Saturdays) there is the least number of bike Trips.But it seems that at (Sunday and Saturdays) the trips duration is higher than    for other weekdays.
 - The duration of most ike trips is between 5 - 10 minutes 
 - Also see how that most bike trips are taken in the morning or the afternoon
-- how that age category 26 - 35 take more trips 
+- Age category 26 - 35 take more trips.
