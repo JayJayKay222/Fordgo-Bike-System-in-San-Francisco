@@ -13,12 +13,12 @@
 - The mid day hours and Afternoon hours are the most numbers of trip but in my opinion this figure is better visualization than pervious one.
 - Thursday is the day that most mubers of bike trips and Saturday and Sunday are the least ad they are the weekends.
 - Most cycle journeys look to be a duration is between 5-10 minutes.
-- Age 31 has th highest bike rdde count
+- Age 31 has th highest bike ride count
 - The range from 24 to 36 are the most bikers and range 49 to 64 are the least
 - And 18 year old are the least because it seems the data for this age is lower than other ages.
 - Most bike trips are by male gender.
 - Most number of bike trips are by subscriber users than customer users and i think it because the subscribers have offers for bike trips.
-- Most trips distance are from 1 to 2 km and the range of all trips from 0 to 5 km and rare who above 5 km.
+- Most trips distance are from 1-2km and the range of all trips from 0 to 5 km and rare who above 5 km.
 - It should be noted that the trips with distance 0 km mean that the start and end station are the same but they made a trip
 - There are relation between start_hour, end_hour and duration_min, distance_km.
 - The median for afternoon and night periods is closer. the spread of data for morning period is between 10 to 11.¶
